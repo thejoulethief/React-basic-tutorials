@@ -1,0 +1,25 @@
+.flat{
+    width: calc(50%-20px);
+    flex-basis: calc(50%-20px);
+    margin: 10px;
+    cursor: pointer;
+
+}
+
+.flat-img:hover{
+    opacity: 0.9;
+}
+.flat-img{
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    width: 500px;
+
+}
+
+.flat-title{
+    margin-top:10px;
+    text-align: initial;
+    font-weight: bold;
+
+}
